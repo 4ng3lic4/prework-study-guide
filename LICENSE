@@ -1,24 +1,21 @@
-# Prework Study Guide Webpage
+MIT License
 
-## Description
-Prework Study Guide is a website for new developers. They can refer to at the beginning of their carrers to learn about coding language. This information will help them through the coding process. 
+Copyright (c) 2022 4ng3lic4
 
-The creation of this website has the purpose of helping people interested in starting to code. This is an easy way to access valuable information that can otherwise be overwhelming in more advanced documentation sources. In this website the information is easily organized by sections and the user can explore the section they are interested in. This website facilitates basic information that can be further complemented once the user become familiar with coding languages.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-While working on this project, I learned how to save my work on Git and GitHub besides the traditional option of working on a text editor to code a website.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-## Installation
-
-N/A
-
-## Usage
-
-This website contains four blocks. Each of them describe a coding language. The first block refers to HTML and a brief description about it. The second block describes brefly what CSS is about. The third and fourth blocks describe Git and JavaScript respectively. For suggestion on what to study first, open the Chrone DevTools by pressing Command+Option+I (mac OS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics  we learned from the prework along with a suggestion on which topic to study first.
-
-
-## Credits
-N/A
-
-## License
-
-Please refer to the LICENSE in the repo.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
